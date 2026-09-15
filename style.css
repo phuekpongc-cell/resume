@@ -13,22 +13,22 @@
 
     /* สีหลัก */
 
-    --brand: #2c5f8d;
-    --brand-dark: #1d4266;
-    --brand-light: #e8f0f7;
+    --brand: #04070a;
+    --brand-dark: #141414;
+    --brand-light: #2b939f8d;
 
 
     /* สีข้อความ */
 
-    --text: #2b3440;
-    --text-muted: #6b7785;
+    --text: #090909;
+    --text-muted: #0a0a0a;
 
 
     /* สีพื้นหลังและเส้นขอบ */
 
-    --bg: #f4f6f8;
-    --surface: #ffffff;
-    --border: #d8dee6;
+    --bg: #c8562d;
+    --surface: #ebaa50;
+    --border: #050505f3;
 
 
     /* ระยะห่างมาตรฐาน */
